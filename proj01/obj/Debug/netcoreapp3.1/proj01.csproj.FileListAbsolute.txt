@@ -1,0 +1,11 @@
+C:\Users\us\Desktop\프로그래밍\proj01\obj\Debug\netcoreapp3.1\proj01.csprojAssemblyReference.cache
+C:\Users\us\Desktop\프로그래밍\proj01\obj\Debug\netcoreapp3.1\proj01.AssemblyInfoInputs.cache
+C:\Users\us\Desktop\프로그래밍\proj01\obj\Debug\netcoreapp3.1\proj01.AssemblyInfo.cs
+C:\Users\us\Desktop\프로그래밍\proj01\bin\Debug\netcoreapp3.1\proj01.exe
+C:\Users\us\Desktop\프로그래밍\proj01\bin\Debug\netcoreapp3.1\proj01.deps.json
+C:\Users\us\Desktop\프로그래밍\proj01\bin\Debug\netcoreapp3.1\proj01.runtimeconfig.json
+C:\Users\us\Desktop\프로그래밍\proj01\bin\Debug\netcoreapp3.1\proj01.runtimeconfig.dev.json
+C:\Users\us\Desktop\프로그래밍\proj01\bin\Debug\netcoreapp3.1\proj01.dll
+C:\Users\us\Desktop\프로그래밍\proj01\bin\Debug\netcoreapp3.1\proj01.pdb
+C:\Users\us\Desktop\프로그래밍\proj01\obj\Debug\netcoreapp3.1\proj01.dll
+C:\Users\us\Desktop\프로그래밍\proj01\obj\Debug\netcoreapp3.1\proj01.pdb
