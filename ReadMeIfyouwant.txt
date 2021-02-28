@@ -18,4 +18,15 @@ After I went to school, there are too many homeworks.
 And the final exam is coming quickly,
 also an admission of highschool which I really want to go is coming...
 혼란하다 혼란해
-(Oh damn so terrible English skills dammmmnnnnnn)
+(terrible English skills)
+
+- - - - - - - - - - - - - - - - - - - - - - - - 
+
+04:57 a.m. February 28th, 2021.
+
+I became a High school student!
+and I'll go to school next Tuesday.
+I bought a C++ Prime Plus to learn C++, but,
+because of preparing high school study,
+I lost a little interest in programming...
+(Still terrible English Grammar)
