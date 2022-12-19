@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T07:50:01.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="15.2.9" etag="mhChep4SM1agrHUL8hpP" type="github"><diagram id="Nz_JySMtzUlJUjrZvmy8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-19T08:30:38.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5LKo95_boPdU8A6tMSHM" version="15.2.9" type="github">
+  <diagram id="Nz_JySMtzUlJUjrZvmy8" name="Page-1">
+    <mxGraphModel dx="1278" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-20" target="vLhUZ-2sjGM1xIv1NIjy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-1" target="vLhUZ-2sjGM1xIv1NIjy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-1" value="시작" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-5" value="예" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-2" target="vLhUZ-2sjGM1xIv1NIjy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-7" value="아니오" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-2" target="vLhUZ-2sjGM1xIv1NIjy-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="230" />
+              <mxPoint x="340" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-2" value="워커순환이 평상시에&lt;br&gt;비해 약한가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-11" value="예" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-4" target="vLhUZ-2sjGM1xIv1NIjy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-13" value="아니오" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-4" target="vLhUZ-2sjGM1xIv1NIjy-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-4" value="표층과 심해의&lt;br&gt;에너지 교환이 차단되는&lt;br&gt;해수층의 깊이가&lt;br&gt;깊어졌는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-33" value="예" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-6" target="vLhUZ-2sjGM1xIv1NIjy-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-35" value="아니오" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-6" target="vLhUZ-2sjGM1xIv1NIjy-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-6" value="가뭄 발생 빈도가 증가하였는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-10" target="vLhUZ-2sjGM1xIv1NIjy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-10" value="(가)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="460" />
+              <mxPoint x="250" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-12" value="(나)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-20" value="서태평양 적도 부근 관측" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-22" value="기압차 출력" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="555" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-32" value="(다)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLhUZ-2sjGM1xIv1NIjy-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLhUZ-2sjGM1xIv1NIjy-34" value="(라)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
